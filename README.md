@@ -24,5 +24,3 @@ You can change the modes for yourself. See the [user manual](https://www.digitec
 ![](assets/1.jpg)
 
 ![](assets/2.jpg)
-
-![](assets/3.jpg)
